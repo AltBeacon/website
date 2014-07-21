@@ -7,17 +7,22 @@ body {
 a {
   color: #35495D;
 }
-h1 {
-  font-weight: 100;
-}
-.container {
-  width: 100%;
-}
 .hero {
   background-color: #35495D;
   color: #fff;
   text-align: center;
   padding: 50px;
+}
+.hero h1 {
+  font-size: 50px;
+  font-weight: 100;
+}
+.hero h2 {
+  font-size: 20px;
+  font-weight: 100;
+}
+.container {
+  width: 100%;
 }
 .footer {
   text-align: center;
@@ -35,7 +40,6 @@ h1 {
 
 img.logo {
   max-height: 150px;
-  padding: 30px;
 }
 
 .two-column .column {
