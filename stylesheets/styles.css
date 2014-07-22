@@ -11,11 +11,12 @@ a {
   background-color: #35495D;
   color: #fff;
   text-align: center;
-  padding: 50px;
+  padding: 30px;
 }
 .hero h1 {
   font-size: 50px;
   font-weight: 100;
+  margin: 9px 0 0 0;
 }
 .hero h2 {
   font-size: 20px;
