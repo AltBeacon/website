@@ -43,6 +43,10 @@ img.logo {
   max-height: 175px;
 }
 
+.page {
+  padding: 0 15px;
+}
+
 .two-column .column {
   width: 50%;
   float:left;
