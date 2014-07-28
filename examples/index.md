@@ -12,4 +12,5 @@ Examples of how the AltBeacon spec is implemented in the real world. This includ
 
 ## Code
 
+- [Android Beacon Library](http://github.com/AltBeacon/android-beacon-library) Android Library for detecting AltBeacon Transmissions
 - [Linux AltBeacon Reference Implementation](https://github.com/RadiusNetworks/altbeacon-reference) Example code using the [BlueZ](http://www.bluez.org/) Bluetooth protocol stack
