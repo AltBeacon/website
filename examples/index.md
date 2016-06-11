@@ -9,6 +9,7 @@ Examples of how the AltBeacon spec is implemented in the real world. This includ
 ## Tools
 - [AltBeacon Locate](https://play.google.com/store/apps/details?id=com.radiusnetworks.locate) Android Utility for detecting AltBeacons
 - [QuickBeacon](https://play.google.com/store/apps/details?id=com.radiusnetworks.quickbeacon) Android Utility for transmitting as an AltBeacon
+- [Beacon Simulator](https://play.google.com/store/apps/details?id=net.alea.beaconsimulator) Android Utility for transmitting as an AltBeacon or other beacon formats, with management of different configurations
 
 ## Code
 
