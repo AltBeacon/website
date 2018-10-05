@@ -20,4 +20,8 @@ Examples of how the AltBeacon spec is implemented in the real world. This includ
 
 ## Other Projects
 
-If you are looking for the unaffiliated iOS framework that allows transmitting in the background, [see here](https://github.com/CharruaLabs/AltBeacon).
+[AltBeacon from CharruaLabs](https://github.com/CharruaLabs/AltBeacon): 
+Unaffiliated iOS framework that allows transmitting in the background.
+
+[AltBeacon for Titanium](https://github.com/CharruaLabs/AltBeacon): 
+Titanium module based on the above framework.
